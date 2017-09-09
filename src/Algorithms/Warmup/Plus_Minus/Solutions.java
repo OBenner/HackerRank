@@ -1,7 +1,7 @@
-package Algorithms.Warmup;
+package Algorithms.Warmup.Plus_Minus;
 import java.util.Scanner;
 
-public class Plus_Minus {
+public class Solutions {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

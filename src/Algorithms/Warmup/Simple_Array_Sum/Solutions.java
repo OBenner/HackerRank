@@ -1,7 +1,7 @@
-package Algorithms.Warmup;
+package Algorithms.Warmup.Simple_Array_Sum;
 import java.util.Scanner;
 
-public class Simple_Array_Sum {
+public class Solutions {
 
 
     public static void main(String[] args) {

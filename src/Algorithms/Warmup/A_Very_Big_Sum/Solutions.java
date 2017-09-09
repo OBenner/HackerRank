@@ -1,8 +1,8 @@
-package Algorithms.Warmup;
+package Algorithms.Warmup.A_Very_Big_Sum;
 
 import java.util.Scanner;
 
-public class A_Very_Big_Sum {
+public class Solutions {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

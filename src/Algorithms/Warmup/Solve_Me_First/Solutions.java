@@ -1,9 +1,9 @@
-package Algorithms.Warmup;
+package Algorithms.Warmup.Solve_Me_First;
 
 import java.util.Scanner;
 
 
-public class Solve_Me_First {
+public class Solutions {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

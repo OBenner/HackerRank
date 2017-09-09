@@ -1,8 +1,8 @@
-package Algorithms.Warmup;
+package Algorithms.Warmup.Mini_Max_Sum;
 
 import java.util.Scanner;
 
-public class Mini_Max_Sum {
+public class Solutions {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         long[] arr = new long[5];
