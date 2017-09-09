@@ -1,1 +1,1 @@
-My solutions from # HackerRank
+My solutions from <i>HackerRank.com</i>
