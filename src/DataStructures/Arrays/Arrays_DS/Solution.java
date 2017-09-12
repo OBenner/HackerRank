@@ -1,7 +1,7 @@
-package DataStructures.Arrays;
+package DataStructures.Arrays.Arrays_DS;
 import java.util.Scanner;
 
-public class Arrays_DS {
+public class Solution {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();

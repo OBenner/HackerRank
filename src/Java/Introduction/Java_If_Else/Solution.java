@@ -1,8 +1,8 @@
-package Java.Introduction;
+package Java.Introduction.Java_If_Else;
 
 import java.util.Scanner;
 
-public class Java_If_Else {
+public class Solution {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

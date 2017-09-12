@@ -1,4 +1,4 @@
-package Java.Object_Oriented_Programming;
+package Java.Object_Oriented_Programming.Java_Inheritance_I;
 
 
 public class Java_Inheritance_I {

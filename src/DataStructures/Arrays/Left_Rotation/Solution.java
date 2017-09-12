@@ -1,7 +1,7 @@
-package DataStructures.Arrays;
+package DataStructures.Arrays.Left_Rotation;
 import java.util.Scanner;
 
-public class Left_Rotation {
+public class Solution {
 
     static int[] leftRotation(int[] a, int d) {
 

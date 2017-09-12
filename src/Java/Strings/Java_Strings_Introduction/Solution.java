@@ -1,8 +1,8 @@
-package Java.Strings;
+package Java.Strings.Java_Strings_Introduction;
 import java.util.Scanner;
 
 
-public class Java_Strings_Introduction {
+public class Solution {
     public static void main(String[] args) {
 
         Scanner sc=new Scanner(System.in);

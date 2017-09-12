@@ -1,4 +1,4 @@
-package Algorithms.Sorting;
+package Algorithms.Sorting.Intro_to_Tutorial_Challenges;
 import java.util.Scanner;
 
 public class Intro_to_Tutorial_Challenges {

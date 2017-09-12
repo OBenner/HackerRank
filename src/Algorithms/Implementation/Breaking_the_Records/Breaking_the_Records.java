@@ -1,4 +1,4 @@
-package Algorithms.Implementation;
+package Algorithms.Implementation.Breaking_the_Records;
 
 import java.util.HashMap;
 import java.util.Scanner;

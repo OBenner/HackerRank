@@ -1,4 +1,4 @@
-package Algorithms.Sorting;
+package Algorithms.Sorting.Running_Time_of_Algorithms;
 import java.util.Scanner;
 
 public class Running_Time_of_Algorithms {

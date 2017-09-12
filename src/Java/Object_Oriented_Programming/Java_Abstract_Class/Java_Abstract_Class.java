@@ -1,4 +1,4 @@
-package Java.Object_Oriented_Programming;
+package Java.Object_Oriented_Programming.Java_Abstract_Class;
 import java.util.Scanner;
 
 public class Java_Abstract_Class {

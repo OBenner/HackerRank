@@ -1,7 +1,7 @@
-package Java.Strings;
+package Java.Strings.Java_Substring;
 import java.util.Scanner;
 
-public class Java_Substring {
+public class Solution {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         String S = in.next();

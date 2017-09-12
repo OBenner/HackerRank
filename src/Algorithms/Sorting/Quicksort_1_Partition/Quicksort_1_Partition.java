@@ -1,4 +1,4 @@
-package Algorithms.Sorting;
+package Algorithms.Sorting.Quicksort_1_Partition;
 
 import java.util.Scanner;
 

@@ -1,8 +1,8 @@
-package Java.Introduction;
+package Java.Introduction.Java_Stdin_and_Stdout_II;
 import java.util.Scanner;
 
 
-public class Java_Stdin_and_Stdout_II {
+public class Solution {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int i = scan.nextInt();

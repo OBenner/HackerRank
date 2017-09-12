@@ -1,4 +1,4 @@
-package Java.Advanced.Java_Singleton_Pattern;
+package Java.Advanced.Java_Singleton_Pattern.Java_Singleton_Pattern;
 
 
 public class Java_Singleton_Pattern {
