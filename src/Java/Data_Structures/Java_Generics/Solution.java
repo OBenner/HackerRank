@@ -1,8 +1,8 @@
-package Java.Data_Structures;
+package Java.Data_Structures.Java_Generics;
 import java.lang.reflect.Method;
 
 
-public class Java_Generics {
+public class Solution {
     public static void main(String args[]) {
         Printer myPrinter = new Printer();
         Integer[] intArray = {1, 2, 3};

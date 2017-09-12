@@ -1,8 +1,8 @@
-package Java.Data_Structures;
+package Java.Data_Structures.Java_1D_Array;
 import java.util.Scanner;
 
 
-public class Java_1D_Array {
+public class Solution {
 
     public static void main(String[] args) {
 
